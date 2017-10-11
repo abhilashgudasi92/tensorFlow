@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/res/drawable-hdpi/ic_action_info.png"
+    }
+]
