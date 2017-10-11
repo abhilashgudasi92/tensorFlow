@@ -1,0 +1,3 @@
+/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/agudasi/Documents/agudasi.MAC.tensorflow/sandbox/agudasi/tensorFlow/examples/android/.externalNativeBuild/cmake/debug/x86/CMakeFiles/tensorflow_demo.dir
